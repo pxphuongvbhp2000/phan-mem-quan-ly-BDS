@@ -1,0 +1,124 @@
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\DoAnTotNghiep.exe.config
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\DoAnTotNghiep.exe
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\DoAnTotNghiep.pdb
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.csproj.SuggestedBindingRedirects.cache
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.Properties.Resources.resources
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.csproj.GenerateResource.cache
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.csproj.CoreCompileInputs.cache
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.exe
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.pdb
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.View.fDangNhap.resources
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.View.fTaskMannager.resources
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.View.fTaiKhoanCaNhan.resources
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.View.fThayDoiMatKhau.resources
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.View.fDanhMucNhanVien.resources
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.View.fDanhMucNhomQuyen.resources
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.View.fChiTietNhomQuyen.resources
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.View.fDanhMucChiNhanh.resources
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.View.fDanhMucPhongBan.resources
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.View.fDanhMucChucVu.resources
+C:\Users\pxphu\OneDrive\Desktop\Đồ Án Tốt Nghiệp\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\DoAnTotNghiep.exe.config
+C:\Users\pxphu\OneDrive\Desktop\Đồ Án Tốt Nghiệp\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\DoAnTotNghiep.exe
+C:\Users\pxphu\OneDrive\Desktop\Đồ Án Tốt Nghiệp\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\DoAnTotNghiep.pdb
+C:\Users\pxphu\OneDrive\Desktop\Đồ Án Tốt Nghiệp\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.csproj.AssemblyReference.cache
+C:\Users\pxphu\OneDrive\Desktop\Đồ Án Tốt Nghiệp\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.csproj.SuggestedBindingRedirects.cache
+C:\Users\pxphu\OneDrive\Desktop\Đồ Án Tốt Nghiệp\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.Properties.Resources.resources
+C:\Users\pxphu\OneDrive\Desktop\Đồ Án Tốt Nghiệp\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.View.fChiTietNhomQuyen.resources
+C:\Users\pxphu\OneDrive\Desktop\Đồ Án Tốt Nghiệp\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.View.fDangNhap.resources
+C:\Users\pxphu\OneDrive\Desktop\Đồ Án Tốt Nghiệp\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.View.fDanhMucChiNhanh.resources
+C:\Users\pxphu\OneDrive\Desktop\Đồ Án Tốt Nghiệp\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.View.fDanhMucChucVu.resources
+C:\Users\pxphu\OneDrive\Desktop\Đồ Án Tốt Nghiệp\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.View.fDanhMucNhanVien.resources
+C:\Users\pxphu\OneDrive\Desktop\Đồ Án Tốt Nghiệp\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.View.fDanhMucNhomQuyen.resources
+C:\Users\pxphu\OneDrive\Desktop\Đồ Án Tốt Nghiệp\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.View.fDanhMucPhongBan.resources
+C:\Users\pxphu\OneDrive\Desktop\Đồ Án Tốt Nghiệp\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.View.fTaskMannager.resources
+C:\Users\pxphu\OneDrive\Desktop\Đồ Án Tốt Nghiệp\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.View.fTaiKhoanCaNhan.resources
+C:\Users\pxphu\OneDrive\Desktop\Đồ Án Tốt Nghiệp\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.View.fThayDoiMatKhau.resources
+C:\Users\pxphu\OneDrive\Desktop\Đồ Án Tốt Nghiệp\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.csproj.GenerateResource.cache
+C:\Users\pxphu\OneDrive\Desktop\Đồ Án Tốt Nghiệp\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.csproj.CoreCompileInputs.cache
+C:\Users\pxphu\OneDrive\Desktop\Đồ Án Tốt Nghiệp\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.exe
+C:\Users\pxphu\OneDrive\Desktop\Đồ Án Tốt Nghiệp\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.pdb
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.View.fDanhMucDuAn.resources
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.View.fDanhMucKhuDat.resources
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.View.fDanhMucLoaiBatDongSan.resources
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.View.fDanhMucBatDongSan.resources
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.View.fDanhMucKhachHang.resources
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.View.fDanhMucNhuCau.resources
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.View.fDanhMucPhieuGiuCho.resources
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.View.fDanhMucDoanhThu.resources
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\EnvDTE.dll
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\stdole.dll
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.csproj.CopyComplete
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.Report.fDanhSachPhieuGiuCho.resources
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.Report.fDanhSachPhieuDatCoc.resources
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.Report.fDanhSachHopDongMuaBan.resources
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.Report.fDanhSachLichThanhToan.resources
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.Report.fDanhSachNhanVien.resources
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.Report.fDanhSachDuAn.resources
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.Report.fDanhSachBatDongSan.resources
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.Report.fDanhSachKhachHang.resources
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.View.fDanhMucPhieuDatCoc.resources
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.View.fDanhMucHopDongMuaBan.resources
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.View.fXemAnh.resources
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.csproj.AssemblyReference.cache
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.View.fAnhCanCuoc.resources
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.View.fAnhHoKhau.resources
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.View.fAnhKetHon.resources
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.View.fAnhGiuCho.resources
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.View.fLTTGiuCho.resources
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.View.fAnhDatCoc.resources
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.View.fLTTDatCoc.resources
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.View.fAnhHopDong.resources
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.View.fLTTHopDong.resources
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.View.fDanhMucChuDauTu.resources
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.View.tmp.resources
+D:\Đồ Án Tốt Nghiệp\DoAnTotNghiep\DoAnTotNghiep\obj\Debug\DoAnTotNghiep.View.fLTTDenHan.resources

@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="HopDongMuaBanDataSet" targetNamespace="http://tempuri.org/HopDongMuaBanDataSet.xsd" xmlns:mstns="http://tempuri.org/HopDongMuaBanDataSet.xsd" xmlns="http://tempuri.org/HopDongMuaBanDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="DoAnTotNghiepConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="DoAnTotNghiepConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.DoAnTotNghiep.Properties.Settings.GlobalReference.Default.DoAnTotNghiepConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="v_HDMBChiTietTableAdapter" GeneratorDataComponentClassName="v_HDMBChiTietTableAdapter" Name="v_HDMBChiTiet" UserDataComponentName="v_HDMBChiTietTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="DoAnTotNghiepConnectionString (Settings)" DbObjectName="DoAnTotNghiep.dbo.v_HDMBChiTiet" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT hoten, sdt, idBDS, diachi, ngaylap, thanhtien, tiendohoanthanh, ghichu FROM dbo.v_HDMBChiTiet</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="hoten" DataSetColumn="hoten" />
+              <Mapping SourceColumn="sdt" DataSetColumn="sdt" />
+              <Mapping SourceColumn="idBDS" DataSetColumn="idBDS" />
+              <Mapping SourceColumn="diachi" DataSetColumn="diachi" />
+              <Mapping SourceColumn="ngaylap" DataSetColumn="ngaylap" />
+              <Mapping SourceColumn="thanhtien" DataSetColumn="thanhtien" />
+              <Mapping SourceColumn="tiendohoanthanh" DataSetColumn="tiendohoanthanh" />
+              <Mapping SourceColumn="ghichu" DataSetColumn="ghichu" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="HopDongMuaBanDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_UserDSName="HopDongMuaBanDataSet" msprop:Generator_DataSetName="HopDongMuaBanDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="v_HDMBChiTiet" msprop:Generator_RowEvHandlerName="v_HDMBChiTietRowChangeEventHandler" msprop:Generator_RowDeletedName="v_HDMBChiTietRowDeleted" msprop:Generator_RowDeletingName="v_HDMBChiTietRowDeleting" msprop:Generator_RowEvArgName="v_HDMBChiTietRowChangeEvent" msprop:Generator_TablePropName="v_HDMBChiTiet" msprop:Generator_RowChangedName="v_HDMBChiTietRowChanged" msprop:Generator_RowChangingName="v_HDMBChiTietRowChanging" msprop:Generator_TableClassName="v_HDMBChiTietDataTable" msprop:Generator_RowClassName="v_HDMBChiTietRow" msprop:Generator_TableVarName="tablev_HDMBChiTiet" msprop:Generator_UserTableName="v_HDMBChiTiet">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="hoten" msprop:Generator_ColumnPropNameInRow="hoten" msprop:Generator_ColumnPropNameInTable="hotenColumn" msprop:Generator_ColumnVarNameInTable="columnhoten" msprop:Generator_UserColumnName="hoten" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="sdt" msprop:Generator_ColumnPropNameInRow="sdt" msprop:Generator_ColumnPropNameInTable="sdtColumn" msprop:Generator_ColumnVarNameInTable="columnsdt" msprop:Generator_UserColumnName="sdt" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="idBDS" msprop:Generator_ColumnPropNameInRow="idBDS" msprop:Generator_ColumnPropNameInTable="idBDSColumn" msprop:Generator_ColumnVarNameInTable="columnidBDS" msprop:Generator_UserColumnName="idBDS" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="diachi" msprop:Generator_ColumnPropNameInRow="diachi" msprop:Generator_ColumnPropNameInTable="diachiColumn" msprop:Generator_ColumnVarNameInTable="columndiachi" msprop:Generator_UserColumnName="diachi" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="200" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ngaylap" msprop:Generator_ColumnPropNameInRow="ngaylap" msprop:Generator_ColumnPropNameInTable="ngaylapColumn" msprop:Generator_ColumnVarNameInTable="columnngaylap" msprop:Generator_UserColumnName="ngaylap" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="thanhtien" msprop:Generator_ColumnPropNameInRow="thanhtien" msprop:Generator_ColumnPropNameInTable="thanhtienColumn" msprop:Generator_ColumnVarNameInTable="columnthanhtien" msprop:Generator_UserColumnName="thanhtien" type="xs:double" minOccurs="0" />
+              <xs:element name="tiendohoanthanh" msprop:Generator_ColumnPropNameInRow="tiendohoanthanh" msprop:Generator_ColumnPropNameInTable="tiendohoanthanhColumn" msprop:Generator_ColumnVarNameInTable="columntiendohoanthanh" msprop:Generator_UserColumnName="tiendohoanthanh" type="xs:double" minOccurs="0" />
+              <xs:element name="ghichu" msprop:Generator_ColumnPropNameInRow="ghichu" msprop:Generator_ColumnPropNameInTable="ghichuColumn" msprop:Generator_ColumnVarNameInTable="columnghichu" msprop:Generator_UserColumnName="ghichu" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2147483647" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

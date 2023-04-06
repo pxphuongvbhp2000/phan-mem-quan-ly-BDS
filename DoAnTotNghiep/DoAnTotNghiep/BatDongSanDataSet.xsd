@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="BatDongSanDataSet" targetNamespace="http://tempuri.org/BatDongSanDataSet.xsd" xmlns:mstns="http://tempuri.org/BatDongSanDataSet.xsd" xmlns="http://tempuri.org/BatDongSanDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="DoAnTotNghiepConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="DoAnTotNghiepConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.DoAnTotNghiep.Properties.Settings.GlobalReference.Default.DoAnTotNghiepConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="v_BDSChiTietTableAdapter" GeneratorDataComponentClassName="v_BDSChiTietTableAdapter" Name="v_BDSChiTiet" UserDataComponentName="v_BDSChiTietTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="DoAnTotNghiepConnectionString (Settings)" DbObjectName="DoAnTotNghiep.dbo.v_BDSChiTiet" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT id, idkhudat, idloaiBDS, diachi, huong, rong, dai, dientichdat, dientichsantruoc, dientichsansau, dongia, tylechietkhau, tyleVAT, trangthai, ghichu, tenkhu, tenduan, tenloaiBDS, idduan, vitri FROM dbo.v_BDSChiTiet</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="id" DataSetColumn="id" />
+              <Mapping SourceColumn="idkhudat" DataSetColumn="idkhudat" />
+              <Mapping SourceColumn="idloaiBDS" DataSetColumn="idloaiBDS" />
+              <Mapping SourceColumn="diachi" DataSetColumn="diachi" />
+              <Mapping SourceColumn="huong" DataSetColumn="huong" />
+              <Mapping SourceColumn="rong" DataSetColumn="rong" />
+              <Mapping SourceColumn="dai" DataSetColumn="dai" />
+              <Mapping SourceColumn="dientichdat" DataSetColumn="dientichdat" />
+              <Mapping SourceColumn="dientichsantruoc" DataSetColumn="dientichsantruoc" />
+              <Mapping SourceColumn="dientichsansau" DataSetColumn="dientichsansau" />
+              <Mapping SourceColumn="dongia" DataSetColumn="dongia" />
+              <Mapping SourceColumn="tylechietkhau" DataSetColumn="tylechietkhau" />
+              <Mapping SourceColumn="tyleVAT" DataSetColumn="tyleVAT" />
+              <Mapping SourceColumn="trangthai" DataSetColumn="trangthai" />
+              <Mapping SourceColumn="ghichu" DataSetColumn="ghichu" />
+              <Mapping SourceColumn="tenkhu" DataSetColumn="tenkhu" />
+              <Mapping SourceColumn="tenduan" DataSetColumn="tenduan" />
+              <Mapping SourceColumn="tenloaiBDS" DataSetColumn="tenloaiBDS" />
+              <Mapping SourceColumn="idduan" DataSetColumn="idduan" />
+              <Mapping SourceColumn="vitri" DataSetColumn="vitri" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="BatDongSanDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_UserDSName="BatDongSanDataSet" msprop:Generator_DataSetName="BatDongSanDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="v_BDSChiTiet" msprop:Generator_RowEvHandlerName="v_BDSChiTietRowChangeEventHandler" msprop:Generator_RowDeletedName="v_BDSChiTietRowDeleted" msprop:Generator_RowDeletingName="v_BDSChiTietRowDeleting" msprop:Generator_RowEvArgName="v_BDSChiTietRowChangeEvent" msprop:Generator_TablePropName="v_BDSChiTiet" msprop:Generator_RowChangedName="v_BDSChiTietRowChanged" msprop:Generator_RowChangingName="v_BDSChiTietRowChanging" msprop:Generator_TableClassName="v_BDSChiTietDataTable" msprop:Generator_RowClassName="v_BDSChiTietRow" msprop:Generator_TableVarName="tablev_BDSChiTiet" msprop:Generator_UserTableName="v_BDSChiTiet">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id" msprop:Generator_ColumnPropNameInRow="id" msprop:Generator_ColumnPropNameInTable="idColumn" msprop:Generator_ColumnVarNameInTable="columnid" msprop:Generator_UserColumnName="id">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="idkhudat" msprop:Generator_ColumnPropNameInRow="idkhudat" msprop:Generator_ColumnPropNameInTable="idkhudatColumn" msprop:Generator_ColumnVarNameInTable="columnidkhudat" msprop:Generator_UserColumnName="idkhudat" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="idloaiBDS" msprop:Generator_ColumnPropNameInRow="idloaiBDS" msprop:Generator_ColumnPropNameInTable="idloaiBDSColumn" msprop:Generator_ColumnVarNameInTable="columnidloaiBDS" msprop:Generator_UserColumnName="idloaiBDS" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="diachi" msprop:Generator_ColumnPropNameInRow="diachi" msprop:Generator_ColumnPropNameInTable="diachiColumn" msprop:Generator_ColumnVarNameInTable="columndiachi" msprop:Generator_UserColumnName="diachi" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="200" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="huong" msprop:Generator_ColumnPropNameInRow="huong" msprop:Generator_ColumnPropNameInTable="huongColumn" msprop:Generator_ColumnVarNameInTable="columnhuong" msprop:Generator_UserColumnName="huong" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="rong" msprop:Generator_ColumnPropNameInRow="rong" msprop:Generator_ColumnPropNameInTable="rongColumn" msprop:Generator_ColumnVarNameInTable="columnrong" msprop:Generator_UserColumnName="rong" type="xs:double" minOccurs="0" />
+              <xs:element name="dai" msprop:Generator_ColumnPropNameInRow="dai" msprop:Generator_ColumnPropNameInTable="daiColumn" msprop:Generator_ColumnVarNameInTable="columndai" msprop:Generator_UserColumnName="dai" type="xs:double" minOccurs="0" />
+              <xs:element name="dientichdat" msprop:Generator_ColumnPropNameInRow="dientichdat" msprop:Generator_ColumnPropNameInTable="dientichdatColumn" msprop:Generator_ColumnVarNameInTable="columndientichdat" msprop:Generator_UserColumnName="dientichdat" type="xs:double" minOccurs="0" />
+              <xs:element name="dientichsantruoc" msprop:Generator_ColumnPropNameInRow="dientichsantruoc" msprop:Generator_ColumnPropNameInTable="dientichsantruocColumn" msprop:Generator_ColumnVarNameInTable="columndientichsantruoc" msprop:Generator_UserColumnName="dientichsantruoc" type="xs:double" minOccurs="0" />
+              <xs:element name="dientichsansau" msprop:Generator_ColumnPropNameInRow="dientichsansau" msprop:Generator_ColumnPropNameInTable="dientichsansauColumn" msprop:Generator_ColumnVarNameInTable="columndientichsansau" msprop:Generator_UserColumnName="dientichsansau" type="xs:double" minOccurs="0" />
+              <xs:element name="dongia" msprop:Generator_ColumnPropNameInRow="dongia" msprop:Generator_ColumnPropNameInTable="dongiaColumn" msprop:Generator_ColumnVarNameInTable="columndongia" msprop:Generator_UserColumnName="dongia" type="xs:double" minOccurs="0" />
+              <xs:element name="tylechietkhau" msprop:Generator_ColumnPropNameInRow="tylechietkhau" msprop:Generator_ColumnPropNameInTable="tylechietkhauColumn" msprop:Generator_ColumnVarNameInTable="columntylechietkhau" msprop:Generator_UserColumnName="tylechietkhau" type="xs:double" minOccurs="0" />
+              <xs:element name="tyleVAT" msprop:Generator_ColumnPropNameInRow="tyleVAT" msprop:Generator_ColumnPropNameInTable="tyleVATColumn" msprop:Generator_ColumnVarNameInTable="columntyleVAT" msprop:Generator_UserColumnName="tyleVAT" type="xs:double" minOccurs="0" />
+              <xs:element name="trangthai" msprop:Generator_ColumnPropNameInRow="trangthai" msprop:Generator_ColumnPropNameInTable="trangthaiColumn" msprop:Generator_ColumnVarNameInTable="columntrangthai" msprop:Generator_UserColumnName="trangthai" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ghichu" msprop:Generator_ColumnPropNameInRow="ghichu" msprop:Generator_ColumnPropNameInTable="ghichuColumn" msprop:Generator_ColumnVarNameInTable="columnghichu" msprop:Generator_UserColumnName="ghichu" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2147483647" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="tenkhu" msprop:Generator_ColumnPropNameInRow="tenkhu" msprop:Generator_ColumnPropNameInTable="tenkhuColumn" msprop:Generator_ColumnVarNameInTable="columntenkhu" msprop:Generator_UserColumnName="tenkhu" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="tenduan" msprop:Generator_ColumnPropNameInRow="tenduan" msprop:Generator_ColumnPropNameInTable="tenduanColumn" msprop:Generator_ColumnVarNameInTable="columntenduan" msprop:Generator_UserColumnName="tenduan" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="tenloaiBDS" msprop:Generator_ColumnPropNameInRow="tenloaiBDS" msprop:Generator_ColumnPropNameInTable="tenloaiBDSColumn" msprop:Generator_ColumnVarNameInTable="columntenloaiBDS" msprop:Generator_UserColumnName="tenloaiBDS" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="idduan" msprop:Generator_ColumnPropNameInRow="idduan" msprop:Generator_ColumnPropNameInTable="idduanColumn" msprop:Generator_ColumnVarNameInTable="columnidduan" msprop:Generator_UserColumnName="idduan" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="vitri" msprop:Generator_ColumnPropNameInRow="vitri" msprop:Generator_ColumnPropNameInTable="vitriColumn" msprop:Generator_ColumnVarNameInTable="columnvitri" msprop:Generator_UserColumnName="vitri" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="200" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
